@@ -1,0 +1,1 @@
+npm run build && heroku login && git init && heroku git:remote -a simplereactreduxappsanjaysir && git add . && git commit -am "fixed minor bugs" && git push heroku master
