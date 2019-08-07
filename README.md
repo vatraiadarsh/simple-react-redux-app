@@ -1,5 +1,6 @@
 # simple-react-redux-app
 
+# please make sure to install redux devtool extension to run the live form of heroku app
 
 **You can find this app live on Heroku.**
 https://simplereactreduxappsanjaysir.herokuapp.com/`
